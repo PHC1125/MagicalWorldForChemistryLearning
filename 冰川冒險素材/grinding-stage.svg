@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="煉金工坊研磨區">
+<defs><linearGradient id="back" x2="0" y2="1"><stop stop-color="#566782"/><stop offset=".55" stop-color="#9c7a74"/><stop offset="1" stop-color="#d0a06c"/></linearGradient><linearGradient id="bench" x2="0" y2="1"><stop stop-color="#e2b879"/><stop offset="1" stop-color="#875340"/></linearGradient><linearGradient id="glass" x2="0" y2="1"><stop stop-color="#9ed4e4"/><stop offset="1" stop-color="#e1f1e8"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#back)"/><path d="M0 0h1600v95H0z" fill="#342f4b"/><path d="M0 94h1600v15H0z" fill="#d9ad6b"/>
+<g transform="translate(110 125)"><path d="M0 0h350v375H0z" fill="#564153" stroke="#d5aa68" stroke-width="14"/><path d="M27 30h296v318H27z" fill="url(#glass)"/><path d="M27 250l75-85 67 69 74-105 80 93v126H27z" fill="#68849b"/><path d="M27 278l89-55 51 43 77-61 79 44v99H27z" fill="#e1eee9"/><path d="M175 30v318M27 190h296" stroke="#d1a96e" stroke-width="13"/></g>
+<g opacity=".7" stroke="#d8b16d" stroke-width="13" fill="none"><path d="M0 560h1600M0 665h1600"/><path d="M535 110v470M1230 110v470"/></g>
+<g fill="#7fa8a6" opacity=".85"><path d="M520 278l36-65 36 65-36 65zM620 335l25-45 25 45-25 45zM1415 215l35-61 35 61-35 61z"/><circle cx="1440" cy="370" r="22" fill="#eac575"/><circle cx="1440" cy="370" r="10" fill="#fff4b9"/></g>
+<path d="M0 612q400-35 800 0t800 0v288H0z" fill="#57404b"/><path d="M0 680h1600M0 780h1600M0 870h1600" stroke="#99715e" stroke-width="8"/><path d="M150 612v288m260-288v288m260-288v288m260-288v288m260-288v288m260-288v288" stroke="#80605a" stroke-width="6"/>
+<path d="M0 580q400-48 800 0t800 0v120q-410-39-800 0T0 700z" fill="url(#bench)" stroke="#f0c986" stroke-width="14"/><path d="M0 615q420-43 800 0t800 0" fill="none" stroke="#f1d59d" stroke-width="8" opacity=".85"/>
+<g fill="#f7e6bc" opacity=".7"><circle cx="230" cy="650" r="7"/><circle cx="780" cy="660" r="6"/><circle cx="1280" cy="646" r="7"/></g>
+<path d="M30 140q80-85 160 0m1190 8q70-74 150-2" fill="none" stroke="#67876a" stroke-width="18"/><g fill="#83a775"><circle cx="92" cy="132" r="23"/><circle cx="168" cy="154" r="18"/><circle cx="1440" cy="143" r="21"/></g>
+</svg>

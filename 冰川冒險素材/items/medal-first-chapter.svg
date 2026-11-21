@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 270" role="img" aria-labelledby="title desc">
+<title id="title">冰雪火鍋勳章</title>
+<desc id="desc">金色圓形勳章，中央有雪花、火焰和火鍋圖案，繫著紫色緞帶。</desc>
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff0a8"/><stop offset=".45" stop-color="#e8b547"/><stop offset="1" stop-color="#a56b21"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9467b3"/><stop offset="1" stop-color="#4d2c72"/></linearGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#402b42" flood-opacity=".32"/></filter>
+</defs>
+<g filter="url(#shadow)">
+<path d="M66 144 50 252l60-29 60 29-16-108Z" fill="url(#ribbon)" stroke="#35244e" stroke-width="5" stroke-linejoin="round"/>
+<path d="m73 148-7 62 44-22 44 22-7-62" fill="none" stroke="#c9a0dc" stroke-width="4" opacity=".8"/>
+<circle cx="110" cy="106" r="80" fill="url(#gold)" stroke="#86531d" stroke-width="8"/>
+<circle cx="110" cy="106" r="66" fill="#fff6d9" stroke="#d79a2e" stroke-width="5"/>
+<g stroke="#4d8fa6" stroke-width="6" stroke-linecap="round"><path d="M110 43v25m0 76v25M47 106h25m76 0h25M65 61l18 18m54 54 18 18m0-90-18 18m-54 54-18 18"/><path d="m110 43 8 11m-8-11-8 11m0 104 8-11m-8 11 8 0m-71-51 11-8m-11 8 11 8m104-8-11-8m11 8-11 8"/></g>
+<path d="M110 76c-7 13-17 19-17 33a17 17 0 0 0 34 0c0-9-7-17-9-26-4 5-6 8-6 13-6-5-5-12-2-20Z" fill="#ed7442" stroke="#9f3f36" stroke-width="3"/>
+<path d="M76 127h68l-8 17H84Z" fill="#c84943" stroke="#71323b" stroke-width="4" stroke-linejoin="round"/>
+<path d="M81 124q29-22 58 0" fill="#f1b950" stroke="#71323b" stroke-width="4"/>
+<path d="M89 151v7m42-7v7" stroke="#71323b" stroke-width="5" stroke-linecap="round"/>
+<path d="M98 94q-8-8 0-15m24 15q8-8 0-15" fill="none" stroke="#9ca7a9" stroke-width="4" stroke-linecap="round"/>
+<path d="M110 18v9m-4-5h8" stroke="#fff2c1" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>

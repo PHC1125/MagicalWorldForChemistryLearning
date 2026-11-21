@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="雪山旁露出層層石灰岩的安全觀察崖道">
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#c7d8e7"/><stop offset=".58" stop-color="#e7eff0"/><stop offset="1" stop-color="#f8f1e6"/></linearGradient>
+<linearGradient id="rock" x2=".8" y2="1"><stop stop-color="#bba98f"/><stop offset=".45" stop-color="#8c7b70"/><stop offset="1" stop-color="#685e64"/></linearGradient>
+<linearGradient id="snow" x2="0" y2="1"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#dce8e8"/></linearGradient>
+<linearGradient id="path" x2="0" y2="1"><stop stop-color="#f3dfbd"/><stop offset="1" stop-color="#c8a57f"/></linearGradient>
+<symbol id="pine" viewBox="0 0 100 170"><path d="M46 120h10v48H46z" fill="#795943"/><path d="M51 2 8 66h23L0 104h37L13 139h75l-24-35h36L77 66h20z" fill="#46676c"/><path d="m51 2-8 62h12l-5-62M8 66l23 3 20-5-19 17zM0 104l38 2 15-4-14 19z" fill="#eef4ee" opacity=".86"/></symbol>
+<symbol id="crystal" viewBox="0 0 120 130"><path d="M60 6 18 82l42 41 42-41z" fill="#8fc7cf" stroke="#557e93" stroke-width="5"/><path d="M60 6v117L18 82z" fill="#d9f3f2"/><path d="m60 6 42 76-42-10z" fill="#b5e0e2"/></symbol>
+<pattern id="strata" width="310" height="115" patternUnits="userSpaceOnUse"><path d="M0 22q77-20 154 2t156-1M0 65q81-13 157 4t153-3M0 101q88-11 162 4t148-6" fill="none" stroke="#dcc9ad" stroke-width="9" opacity=".74"/><path d="M13 39q84-9 145 4t145-2" fill="none" stroke="#645c61" stroke-width="3" opacity=".35"/></pattern>
+</defs>
+<rect width="1600" height="1000" fill="url(#sky)"/>
+<circle cx="1278" cy="176" r="102" fill="#fff8dc" opacity=".5"/><circle cx="1278" cy="176" r="67" fill="#fffdf0" opacity=".62"/>
+<path d="M0 461 214 214l90 116 189-247 203 289 156-188 158 211 194-283 212 301 184-164v472H0z" fill="#94b1c0" opacity=".69"/>
+<path d="m111 333 103-119 53 68 128-168 95 190-112-94-52 59-50-31-59 91zM691 414l161-230 103 169 101-125 119 217-134-106-76 64-86-71-72 91zM1210 337l163-217 105 153 78-68 44 144-117-75-79 77-72-46-61 65z" fill="#f5f8f4" opacity=".92"/>
+<path d="M0 563q194-85 385-18t338 8q210-93 407-23t470-36v506H0z" fill="#dae7e6"/>
+<path d="M0 725q177-92 361-12t332 18q218-83 415-4t492-34v307H0z" fill="#b8d2d1"/>
+<path d="M1030 224q113-63 222-8l142 74 206-27v737h-617q43-147 34-290t-52-284q-35-114 65-202z" fill="url(#rock)" stroke="#6b5d62" stroke-width="10"/>
+<path d="M1030 224q113-63 222-8l142 74 206-27v737h-617q43-147 34-290t-52-284q-35-114 65-202z" fill="url(#strata)" opacity=".88"/>
+<path d="M1067 218q117-76 226-15l107 63 195-24v94q-161 19-234-4t-141-27q-99-4-198 45-34-75 45-132z" fill="url(#snow)"/>
+<path d="M1116 340q106-47 194-15t284 12M1089 432q124-41 223-9t278 5M1085 541q112-32 223-4t282 2M1094 653q117-23 220 3t276 3M1090 773q114-26 221 6t279 2M1079 895q129-34 238 0t272 1" fill="none" stroke="#dfc9aa" stroke-width="19" opacity=".86"/>
+<path d="M0 642q153-66 306-5t287 21q119-11 199-70 120-89 211-44 64 31 52 92-10 54-102 91-125 51-193 123-67 71-15 145 35 49 114 88H0z" fill="url(#path)" stroke="#b79673" stroke-width="8"/>
+<path d="M0 642q153-66 306-5t287 21q119-11 199-70 120-89 211-44 64 31 52 92-10 54-102 91-125 51-193 123-67 71-15 145 35 49 114 88" fill="none" stroke="#fff4da" stroke-width="11" stroke-dasharray="2 31" stroke-linecap="round" opacity=".9"/>
+<use href="#pine" x="66" y="428" width="109" height="185"/><use href="#pine" x="220" y="468" width="83" height="141"/><use href="#pine" x="392" y="489" width="94" height="160"/><use href="#pine" x="738" y="500" width="80" height="136"/><use href="#pine" x="855" y="448" width="104" height="177"/><use href="#pine" x="1445" y="545" width="88" height="149"/>
+<use href="#crystal" x="874" y="563" width="70" height="76"/><use href="#crystal" x="953" y="603" width="48" height="55"/><use href="#crystal" x="299" y="779" width="57" height="65"/>
+<path d="M78 572v-89m-29 14h58m-48-30 39 30m-38 24 38-23" fill="none" stroke="#735a47" stroke-width="8"/><path d="M79 486q35-42 75 0-38 39-75 0" fill="#8d5d83" stroke="#55365f" stroke-width="5"/>
+<g fill="#fff" opacity=".7"><circle cx="170" cy="143" r="5"/><circle cx="442" cy="180" r="4"/><circle cx="660" cy="116" r="5"/><circle cx="913" cy="143" r="4"/><circle cx="1512" cy="403" r="5"/><circle cx="548" cy="414" r="4"/><circle cx="121" cy="335" r="3"/><circle cx="777" cy="317" r="5"/></g>
+<path d="M0 946q203-47 403 0t403 0q194-48 395 0t399 0v54H0z" fill="#eaf1eb" opacity=".8"/>
+</svg>

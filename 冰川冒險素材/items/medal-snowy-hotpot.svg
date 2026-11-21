@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 210" role="img" aria-labelledby="title desc">
+<title id="title">Snowy Hotpot Medal</title>
+<desc id="desc">A gold medal with a snowflake and a warm red hotpot emblem.</desc>
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff1a5"/><stop offset=".45" stop-color="#e7ad3c"/><stop offset="1" stop-color="#a95e22"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7651a1"/><stop offset="1" stop-color="#492c69"/></linearGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#281c32" flood-opacity=".28"/></filter>
+</defs>
+<g filter="url(#shadow)" stroke-linejoin="round">
+<path d="M48 8h34l8 57H60z" fill="url(#ribbon)" stroke="#f4d477" stroke-width="4"/><path d="M98 8h34l-12 57H90z" fill="url(#ribbon)" stroke="#f4d477" stroke-width="4"/>
+<circle cx="90" cy="112" r="57" fill="url(#gold)" stroke="#9b5d24" stroke-width="6"/><circle cx="90" cy="112" r="46" fill="#fff4c9" stroke="#fff0a0" stroke-width="4"/><circle cx="90" cy="112" r="37" fill="#75498d" stroke="#b27a31" stroke-width="3"/>
+<path d="M90 79v20m0 26v20M57 112h20m26 0h20M67 89l14 14m18 18 14 14m0-46-14 14m-18 18-14 14" stroke="#ecf8ff" stroke-width="5" stroke-linecap="round"/><circle cx="90" cy="112" r="8" fill="#fff4ba" stroke="#d8a342" stroke-width="3"/>
+<path d="M66 130q24 18 48 0l-5 16q-19 13-38 0z" fill="#c7443c" stroke="#7c2e35" stroke-width="3"/><path d="M63 126h54v10H63z" fill="#f4d98a" stroke="#9b5d24" stroke-width="3"/><path d="M75 122c-3-8 3-14 8-11 5-11 12-6 12 1 7-7 13 0 9 9" fill="#fff8df" stroke="#ad6139" stroke-width="3"/>
+<path d="M78 147l-4 15h32l-4-15" fill="#8f3940" stroke="#7c2e35" stroke-width="3"/><path d="M90 94v-12m0 60v-12m-24-18H54m72 0h-12m-40-16-9-9m50 50-9-9m0-32 9-9m-50 50-9 9" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</g></svg>

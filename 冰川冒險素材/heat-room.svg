@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="溫暖的煉金工坊示範室">
+<defs>
+<linearGradient id="wall" x2="0" y2="1"><stop stop-color="#d6c4d2"/><stop offset="1" stop-color="#98859f"/></linearGradient>
+<linearGradient id="floor" x2="0" y2="1"><stop stop-color="#a68c8a"/><stop offset="1" stop-color="#65526b"/></linearGradient>
+<radialGradient id="fire"><stop stop-color="#fff2a0"/><stop offset=".45" stop-color="#ffb44b"/><stop offset="1" stop-color="#df6841" stop-opacity="0"/></radialGradient>
+<linearGradient id="window" x2="0" y2="1"><stop stop-color="#aecfe2"/><stop offset="1" stop-color="#f6f1df"/></linearGradient>
+<pattern id="stones" width="240" height="118" patternUnits="userSpaceOnUse"><path d="M0 0H240V118H0Z" fill="none" stroke="#725f79" stroke-width="9"/><path d="M120 0V57M35 58V118M205 58V118" stroke="#8d798e" stroke-width="7"/></pattern>
+<linearGradient id="wood" x2="0" y2="1"><stop stop-color="#c99863"/><stop offset="1" stop-color="#80553f"/></linearGradient>
+</defs>
+<rect width="1600" height="690" fill="url(#wall)"/>
+<rect width="1600" height="690" fill="url(#stones)" opacity=".52"/>
+<path d="M0 675H1600V900H0Z" fill="url(#floor)"/>
+<path d="M0 741H1600M0 812H1600M120 675V741M360 675V741M600 675V741M840 675V741M1080 675V741M1320 675V741M150 741V812M430 741V812M710 741V812M990 741V812M1270 741V812M90 812V900M390 812V900M690 812V900M990 812V900M1290 812V900" fill="none" stroke="#4f4358" stroke-width="8" opacity=".5"/>
+<path d="M90 435V190Q90 70 225 70Q360 70 360 190V435Z" fill="#735d7c" stroke="#634d6e" stroke-width="14"/>
+<path d="M115 418V192Q115 96 225 96Q335 96 335 192V418Z" fill="url(#window)"/>
+<path d="M115 330L185 245L238 308L283 218L335 283V418H115Z" fill="#e8f1e9"/>
+<path d="M225 96V418M115 248H335M115 334H335" stroke="#745d79" stroke-width="12"/>
+<path d="M1110 450V205Q1110 65 1280 65Q1450 65 1450 205V450Z" fill="#5b4866" stroke="#51405e" stroke-width="18"/>
+<path d="M1150 435V210Q1150 105 1280 105Q1410 105 1410 210V435Z" fill="#45364f"/>
+<ellipse cx="1280" cy="385" rx="170" ry="225" fill="url(#fire)"/>
+<path d="M1180 435Q1155 360 1215 325Q1195 270 1250 220Q1240 292 1290 310Q1315 265 1335 235Q1370 320 1345 356Q1410 370 1380 435Z" fill="#ed8a43" stroke="#ffd27c" stroke-width="10"/>
+<path d="M1235 435Q1220 385 1265 350Q1265 310 1295 275Q1290 345 1330 371Q1345 398 1325 435Z" fill="#fff0a1"/>
+<path d="M1080 465H1485M1110 485H1450" stroke="#6d5368" stroke-width="25"/>
+<path d="M80 520H420M1180 520H1530" stroke="#71596d" stroke-width="24"/>
+<path d="M110 500V535M385 500V535M1210 500V535M1490 500V535" stroke="#725a6c" stroke-width="20"/>
+<g fill="#b08bc2" stroke="#685274" stroke-width="7"><path d="M470 470V350Q470 320 500 320H550Q580 320 580 350V470Z"/><path d="M590 470V370Q590 340 620 340H665Q695 340 695 370V470Z"/><path d="M760 470V355Q760 325 790 325H835Q865 325 865 355V470Z"/><path d="M900 470V375Q900 345 930 345H970Q1000 345 1000 375V470Z"/></g>
+<g fill="#ead9ac"><rect x="492" y="365" width="20" height="35" rx="6"/><rect x="613" y="382" width="18" height="29" rx="5"/><rect x="782" y="372" width="20" height="36" rx="6"/><rect x="918" y="394" width="18" height="27" rx="5"/></g>
+<path d="M0 630H1600V700H0Z" fill="url(#wood)" stroke="#694838" stroke-width="18"/>
+<path d="M0 655H1600M90 700V880M1510 700V880" fill="none" stroke="#704c3d" stroke-width="22"/>
+<path d="M80 670H1520" stroke="#e0b578" stroke-width="8" opacity=".7"/>
+<g fill="#f5e2bc" opacity=".85"><circle cx="430" cy="150" r="8"/><circle cx="760" cy="230" r="6"/><circle cx="1030" cy="125" r="7"/><circle cx="990" cy="290" r="5"/></g>
+</svg>
